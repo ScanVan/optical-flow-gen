@@ -1,0 +1,12 @@
+# CMake
+build
+
+# Eclipse
+.project
+
+# makefile
+bin
+obj
+
+# other
+dev
